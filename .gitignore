@@ -1,0 +1,10 @@
+/build/
+*.exe
+*.log
+*.o
+*.obj
+*.dll
+*.warp_resume
+*.ini
+.DS_Store
+Thumbs.db
